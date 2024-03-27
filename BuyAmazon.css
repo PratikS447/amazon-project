@@ -1,0 +1,19 @@
+*{
+    padding: 0;
+    margin: 0;
+    background-color: azure;
+    align-content: center;
+}
+
+form{
+    line-height: 50px;
+    border-radius: 10px;
+    border: 2px black solid;
+    margin: 30px;
+    padding: 30px;
+}
+
+#Address{
+    width: 1000px;
+    height: 40px;
+}
